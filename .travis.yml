@@ -1,0 +1,4 @@
+language: shell
+install: skip  # Skip the installation phase
+script:
+  - echo "testing"  # Correctly formatted command to echo "testing"
